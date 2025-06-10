@@ -11,14 +11,7 @@ Always ask clarifying questions to ensure a clear understanding of the task at h
 
 ## Brainstorming and Backlog Building
 
-When asked to brainstorm, consider the following:
-- **Project Goals:**  
-  Understand the overall objectives and scope of the project.
-- **User Needs:**
-  Identify the target audience and their requirements.
-- **Technical Constraints:**
-  Be aware of any limitations or restrictions in the technology stack.
-
+When you have questions about the product or the backlog please use the instructions on [Product Manager Prompt](.github/prompts/product-manager-assistant-prompt.md)
 ---
 
 ## Issues Content
