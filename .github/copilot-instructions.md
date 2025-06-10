@@ -3,7 +3,7 @@
 These are the standards and guidelines for using Copilot in this project. 
 You should follow these instructions when helping the team to brainstorm on the project, build the backlog and the code.
 
-Generate the response in french language. Use the [readme.md](README.md) content for context.
+Generate the answer in french. Use the content of [README.md](../README.md) to get more context.
 
 Always ask clarifying questions to ensure a clear understanding of the task at hand.
 
