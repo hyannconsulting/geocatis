@@ -1,0 +1,6 @@
+@Geocatis.API_HostAddress = http://localhost:5047
+
+GET {{Geocatis.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

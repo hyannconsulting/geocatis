@@ -1,0 +1,52 @@
+# .gitignore global pour Geocatis
+# Basé sur les standards .NET, Visual Studio et projets web
+
+# Dossiers de build et de sortie
+bin/
+obj/
+
+# Fichiers utilisateur et de configuration locale
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers de logs
+*.log
+
+# Dossiers de packages
+packages/
+
+# Fichiers de configuration secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Dossiers de publication
+publish/
+
+# Dossiers de dépendances front-end
+node_modules/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+~$*
+
+# Dossiers de cache
+.vs/
+.vscode/
+
+# Fichiers générés par Visual Studio Code
+.history/
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+
+# wwwroot build output
+Geocatis.Web/wwwroot/dist/
+
+# Autres fichiers à ignorer
+*.swp
+*.bak
