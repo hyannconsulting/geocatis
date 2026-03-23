@@ -278,6 +278,7 @@ dotnet test Geocatis.E2ETests
 
 - [Architecture complète](docs/ARCHITECTURE.md)
 - [Modèle de domaine](docs/DOMAIN-MODEL.md)
+- [Pattern CQRS](docs/CQRS.md)
 - [Guide de déploiement](infrastructure/bicep/README.md)
 - [Instructions pour Copilot](.github/copilot-instructions.md)
 
